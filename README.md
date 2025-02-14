@@ -1,1 +1,1 @@
-# gittraining2025
+hello from readme file
